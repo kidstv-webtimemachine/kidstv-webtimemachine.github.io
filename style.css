@@ -1,0 +1,28 @@
+/** LOG DEV - MISE À JOUR 2004 - MAINTENANT COMPATIBLE BLACKBERRY **/
+
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    font-size: 18px;
+    color: #a50e40;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.sidebar-button {
+    width: 100%;
+    border-bottom: 3px #a50e40 double;
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+}
+
+table, tr, td {
+    margin: 0;
+    padding: 0;
+    border: 2px grey solid;
+    vertical-align: top;
+}
